@@ -96,7 +96,7 @@
                         <p>
                            <b>Your Trusted Source for Premium Grease and Lubricant Oil Solutions in India!</b>
                         </p>
-                        <p>Explore our wide range of superior grease and oil products under the <b> ‘Gripson’ </b>product brand prepared to fulfill the diverse requirements of automobile and other industries worldwide. With reliable lubrication offerings, expert advice, affordable pricing, and nationwide delivery, mahavirlubricants.com is your ultimate destination for getting lubrication solutions. Experience excellence today!
+                        <p>Explore our wide range of superior grease and oil products under the <b> ‘Gripson’ product brand prepared </b>to fulfill the diverse requirements of automobile and other industries worldwide. With reliable lubrication offerings, expert advice, affordable pricing, and nationwide delivery, mahavirlubricants.com is your ultimate destination for getting lubrication solutions. Experience excellence today!
                         </p>
                         <a href="#" class="btn btn-style-2">Read more</a>
                     </div>
