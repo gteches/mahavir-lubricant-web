@@ -75,6 +75,8 @@ $route['home-slider-add'] = 'HomeSlider/add';
 $route['home-slider-edit/(:any)'] = 'HomeSlider/add/$1';
 
 $route['inquiry-list'] = 'ContactInquiry/inquiryList';
+$route['dealer-inquiry-list'] = 'DealerInquiry/inquiryList';
+$route['vendor-inquiry-list'] = 'VendorInquiry/inquiryList';
 $route['site-setting'] = 'SiteSetting/siteSetting';
 $route['change-password'] = 'Dashboard/changePassword';
 

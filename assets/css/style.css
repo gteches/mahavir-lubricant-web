@@ -104,7 +104,7 @@ p {
   -ms-hyphens: auto;
   hyphens: auto;
   margin-bottom: 10px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 a {
@@ -1685,11 +1685,28 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .breadcrumb-style-6 {
   background: url(../img/banner-img/inner.jpg);
   min-height: 421px;
-  background-size: cover;
+  background-size: cover !important;
   position: relative;
+  background-repeat: no-repeat !important;
+}
+.about-banner{
+  background: url(../img/banner-img/about-us-website-banner.png);
+}
+.corevalue-banner{
+  background: url(../img/banner-img/core-value-gripson-website-banner-.png);
+}
+.product-banner{
+  background: url(../img/banner-img/product-gripson-website-banner.png);
+}
+.infrastructure-banner{
+  background: url(../img/banner-img/infrastructure-gripson-website-banner.png);
+}
+.milestone-banner{
+  background: url(../img/banner-img/mile-stone-gripson-website-banner.png);
 }
 .infrastructure-sec p {
   color: var(--paragraph-color);
+  font-size: 16px;
 }
 .breadcrumb-style-6:after {
   position: absolute;
@@ -1697,7 +1714,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(2, 6, 24, 0.3);
+  /* background-color: rgba(2, 6, 24, 0.3); */
   content: "";
   z-index: 1;
 }
@@ -3321,7 +3338,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .banner-area .title1,
 .banner-area .title2 {
   color: #fff;
-  font-size: 120px;
+  font-size: 75px;
   text-transform: capitalize;
   font-family: var(--heading-font);
   font-weight: 900;
@@ -3342,6 +3359,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+  max-width: 727px;
 }
 
 .banner-area .banner-bg .banner-inner p {
@@ -3918,7 +3936,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 .about-video-text p {
   line-height: 25px;
-  font-size: 18px;
+  font-size: 16px;
   color: var(--paragraph-color);
   font-weight: 400;
   font-family: var(--body-font);
@@ -5383,11 +5401,12 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 .home-rolling .rolling-content p {
   color: var(--paragraph-color);
-  font-size: 18px;
+  font-size: 16px;
   letter-spacing: 0.025em;
   font-weight: 400;
   line-height: 35px;
   padding-right: 35px;
+  text-align: justify;
 }
 .home-rolling .rolling-content p:last-child {
   margin: 0;
@@ -12936,12 +12955,12 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 }
 
 .vision-mission-txt p {
-  font-size: 18px;
+  font-size: 16px;
   font-family: var(--body-font);
   font-weight: 400;
   color: var(--heading-color);
   letter-spacing: 0.025em;
-  text-align: center;
+  text-align: justify;
   word-break: auto-pharse;
   margin: 0;
 }
@@ -12963,7 +12982,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 }
 .vision-mision .col-lg-4 {
   border-right: 1px solid var(--main-color);
-  padding: 0px 75px;
+  padding: 0px 20px;
 }
 
 .vision-mision .col-lg-4:last-child {
@@ -13164,9 +13183,9 @@ label {
   border: 1px solid #e9e3e3;
   padding: 30px;
 }
-select.form-control:not([size]):not([multiple]) {
+/* select.form-control:not([size]):not([multiple]) {
   height: 81% !important;
-}
+} */
 
 .select_input {
   margin-bottom: 15px;
@@ -13670,6 +13689,12 @@ textarea {
 }
 .presence-sec p {
   color: var(--paragraph-color);
+  font-size: 16px;
+  text-align: justify;
+}
+.about-video-text li{
+  color: var(--paragraph-color);
+  font-size: 18px;
 }
 
 /* mile stone css */
@@ -13885,6 +13910,8 @@ textarea {
 
 .milestone-sec p {
   color: var(--paragraph-color);
+  text-align: justify;
+  font-size: 16px;
 }
 
 /* global office */
@@ -14413,7 +14440,8 @@ textarea {
 }
 .service-3 .service-box .y-us-content p {
   color: var(--paragraph-color);
-  font-size: 18px;
+  font-size: 16px;
+  text-align: justify;
   font-weight: 300;
   line-height: 24px;
 }

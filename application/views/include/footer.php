@@ -18,9 +18,7 @@
                     <div class="footer-widget widget widget_nav_menu d-flex justify-content-center">
                         <ul>
                             <li><a href="<?php echo base_url(); ?>">Home</a></li>
-                            <li><a href="<?php echo base_url('about-us'); ?>">About</a></li>
-
-                            <li><a href="<?php echo base_url('product'); ?>">Product</a></li>
+                            <li><a href="<?php echo base_url('about-us'); ?>">About</a></li>                          
                             <li><a href="<?php echo base_url('why-us'); ?>">Why Us</a></li>
                             <li><a href="<?php echo base_url('contact-us'); ?>">Contact</a></li>
                         </ul>

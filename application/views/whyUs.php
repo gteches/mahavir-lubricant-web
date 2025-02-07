@@ -34,11 +34,11 @@
                                 <!--Sec Title-->
                                 <div class="heading section-inner-heading">
                                     <h2>Welcome to <span>Gripson</h2>
-                                </div>
-
-                                <div class="dark-text">35 years long lasting and mutually rewarding and relationships</div>
-                                <div class="text">Leverage agile frameworks to provide a robust synopsis overviews. Iterative smhes to
-                                    the corporate strategy foster collaborative thinking to further ovr aoverall value.</div>
+                                </div>                               
+                                <div class="text">Welcome to Mahavir Lubricants, where we’ve been pioneering high-quality lubrication solutions for over 30 years. With a commitment to innovation, sustainability, and superior performance, we provide industries worldwide with reliable products that power success and drive growth.
+                                <div class="text">At Mahavir Lubricants company started with the belief of improving lives through innovative lubrication solutions. Our dedicated team focuses on efficiency, collaboration, and mutual growth. With a profit-sharing policy for employees and customers, we ensure a strong and sustainable partnership. Choose Mahavir Lubricants ‘Gripson’ for high-quality oil and lubricant products that are engineered to protect and enhance both machinery and the automobile industry.
+                                </div>  
+                            </div>
                                 <div class="row clearfix">
                                     <!--Services Block Two-->
                                     <div class="services-block-two col-md-4 col-sm-4 col-xs-12">
@@ -47,7 +47,8 @@
                                                 <i class="fa fa-check" aria-hidden="true"></i>
                                             </div>
                                             <h3>Quality Work</h3>
-                                            <div class="block-text">Delivering excellence with precision and attention to detail, ensuring top-notch results that exceed expectations</div>
+                                            <div class="block-text">We are dedicated to delivering excellent lubricants by focusing on precision and attention to every preparation of lubricant, ensuring our results not only meet but exceed industry standards.
+                                            </div>
                                         </div>
                                     </div>
                                     <!--Services Block Two-->
@@ -56,8 +57,10 @@
                                             <div class="icon-box">
                                                 <i class="fa fa-cog" aria-hidden="true"></i>
                                             </div>
-                                            <h3>safety environment</h3>
-                                            <div class="block-text">Fostering a secure and sustainable environment where safety and well-being are our top priorities.</div>
+                                            <h3>Safe Environment
+                                            </h3>
+                                            <div class="block-text">We prioritize safety by creating a secure, sustainable workplace where the health and well-being of our team are always at top priorities.
+                                            </div>
                                         </div>
                                     </div>
                                     <!--Services Block Two-->
@@ -66,8 +69,11 @@
                                             <div class="icon-box">
                                                 <i class="fa fa-user" aria-hidden="true"></i>
                                             </div>
-                                            <h3>Quality Staffs</h3>
-                                            <div class="block-text">Empowered professionals delivering expertise, dedication, and exceptional service at every step.</div>
+                                            <h3>Skilled Workforce
+                                            </h3>
+                                            <div class="block-text">Our team of empowered professionals brings their unmatched expertise, commitment, and exceptional lubrication service, ensuring top quality in every aspect of our work.
+
+</div>
                                         </div>
                                     </div>
                                 </div>

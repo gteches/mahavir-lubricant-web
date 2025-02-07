@@ -13,7 +13,7 @@
 
 <body>
     <?php include('include/navbar.php'); ?>
-    <div class="breadcrumb-area breadcrumb-style-6">
+    <div class="breadcrumb-area breadcrumb-style-6 about-banner">
         <div class="breadcrumb-inner">
             <h1 class="page-title">About us</h1>
             <ul class="page-list">
@@ -29,30 +29,29 @@
                 <div class="col-xl-7 col-lg-6 d-flex align-self-center">
                     <div class="about-video-text">
                         <div class="heading">
-                            <h2>About Us</h2>
+                            <h2>About Mahavir Manufactures</h2>
                         </div>
-                        <h6>
+                        <!-- <h6>
                             "Engine oil lubricates, cools, and protects the engine, ensuring
                             smooth performance and extending its lifespan."
-                        </h6>
-                        <p>
-                            <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Nulla sit amet semper augue. Maecenas gravida tortor sit amet
-                                enim venenatis tristique. Nulla vehicula porta tortor non
-                                maximus. Vestibulum ante ipsum primis in faucibus</span><br />
-                            orci luctus et ultrices posuere cubilia Curae; Aliquam eu
-                            viverra augue. Donec aliquet dignissim augue, nec posuere augue
-                            pharetra sed. Pellentesque consequat ornare ornare. Aliquam erat
-                            volutpat. Nullam posuere porttitor lectus, ut efficitur nisi
-                            tincidunt posuere. Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit. Nulla sit amet semper augue. Maecenas gravida
-                            tortor sit amet enim venenatis tristique. Nulla vehicula porta
-                            tortor non maximus. Vestibulum ante ipsum primis in faucibus
-                            orci luctus et ultrices posuere cubilia Curae; Aliquam eu
-                            viverra augue. Donec aliquet dignissim augue, nec posuere augue
-                            pharetra sed. Pellentesque consequat ornare ornare. Aliquam erat
-                            volutpat. Nullam posuere porttitor lectus, ut efficitur nisi
-                            tincidunt posuere.
+                        </h6> -->
+                        <p>Mahavir Lubricants was started by the Shree Mahavir Group of companies in 1990. The company now has a manufacturing facility built for manufacturing the LUBRICANTS. We are a partnership firm managed by Mr. Maulik Doshi (Partner), and we have built a wonderful clientele. At Mahavir Lubricants, we are committed to offering better lubricating solutions for the evolving needs of the automobile and industrial sectors.
+                        </p>
+                        <p>We also strive to provide innovative and efficient lubricating solutions that empower performance and ensure reliability.
+                        </p>
+                        <p>Our Engine oil protects, cools, and lubricates the engine to guarantee flawless performance thus extending the lifespan of the automobiles and industrial machinery.
+                        </p>
+                        <p>Our diverse product portfolio includes:
+                        </p>
+                        <ul>
+                            <li><b>Greases:</b>  Manufactured for optimal friction reduction and durability.</li>
+                            <li><b>Automotive Oils:</b>  Prepared to enhance engine performance and longevity.</li>
+                            <li><b>Industrial Oils</b>  Custom-formulated to meet the demanding industrial requirements.
+                            </li>
+                            <li><b>Coolants</b>   Ensures enhanced heat dissipation and engine protection.
+                            </li>                            
+                        </ul>
+                        <p>With a legacy of excellence and a focus on technological advancement, Shree Mahavir Group continues to drive innovation and quality-enhanced lubrication solutions, catered to address a wide range of industrial as well as automotive applications.
                         </p>
                     </div>
                 </div>
@@ -127,10 +126,7 @@
                         <div class="vision-mission-txt">
                             <h3>Our Mission</h3>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. A ad
-                                neque magni vel modi labore id iste qui! Quae praesentium
-                                deserunt veritatis suscipit nesciunt est error aut neque
-                                aliquam cumque?
+                            At MahavirLubricants, our mission is to provide excellent lubrication solutions for the automotive and industrial sectors. We aim to empower various industries by delivering innovative, high-performing lubricants that improve machinery efficiency and sustain their lifespan. Customer satisfaction, lubrication industry innovation, and trust and quality relationships are our top priorities.
                             </p>
                         </div>
                     </div>
@@ -141,10 +137,8 @@
                         <div class="vision-mission-txt">
                             <h3>Our Vision</h3>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. A ad
-                                neque magni vel modi labore id iste qui! Quae praesentium
-                                deserunt veritatis suscipit nesciunt est error aut neque
-                                aliquam cumque?
+                            At Mahavir Lubricants our Vision is to emerge as a global leader in the lubricant manufacturing industry, driven by innovation and commitment to excellence. We envision a future where Mahavir Lubricants sets the ultimate benchmark for reliability, and enhanced lubrication technologies, contributing to the smooth performance of industries worldwide.
+
                             </p>
                         </div>
                     </div>
@@ -155,10 +149,8 @@
                         <div class="vision-mission-txt">
                             <h3>Our Core Value</h3>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. A ad
-                                neque magni vel modi labore id iste qui! Quae praesentium
-                                deserunt veritatis suscipit nesciunt est error aut neque
-                                aliquam cumque?
+                            The core values of Mahavir Lubricants include an emphasis on quality assurance, innovation, sustainability, customer-centricity, and integrity. We deliver superior lubricants, adopt modern technologies, prioritize customer satisfaction, and ensure transparent, ethical business relationships to foster trust and excellence.
+
                             </p>
                         </div>
                     </div>

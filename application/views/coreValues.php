@@ -14,7 +14,7 @@
 <body>
     <?php include('include/navbar.php'); ?>
 
-    <div class="breadcrumb-area breadcrumb-style-6">
+    <div class="breadcrumb-area breadcrumb-style-6 corevalue-banner">
         <div class="breadcrumb-inner">
             <h1 class="page-title">Core Value</h1>
             <ul class="page-list">
@@ -40,8 +40,8 @@
                                     </div>
                                     <div class="y-us-content">
                                         <h4>Integrity</h4>
-                                        <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate
-                                            superior del</p>
+                                        <p>We uphold the highest standards of transparency and ethical practices, ensuring long-term success by fostering trust and accountability in every aspect of our business.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -52,8 +52,7 @@
                                     </div>
                                     <div class="y-us-content">
                                         <h4>Goals</h4>
-                                        <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate
-                                            superior del</p>
+                                        <p>We are committed to driving growth by adhering to global standards, ensuring that every step we take creates sustainable, scalable benefits for all stakeholders.</p>
                                     </div>
                                 </div>
                             </div>
@@ -63,9 +62,10 @@
                                         <i class="fa fa-check" aria-hidden="true"></i>
                                     </div>
                                     <div class="y-us-content">
-                                        <h4>Innovation</h4>
-                                        <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate
-                                            superior del</p>
+                                        <h4>Innovation
+                                        </h4>
+                                        <p>We focus on continuously introducing forward-thinking solutions, embracing cutting-edge technologies to lead our industry and meet evolving customer needs.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -87,8 +87,8 @@
                                     </div>
                                     <div class="y-us-content">
                                         <h4>Focus on Quality</h4>
-                                        <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate
-                                            superior del</p>
+                                        <p>Our dedication to excellence ensures that every product and service we deliver meets the highest standards, providing superior performance and reliability.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -98,9 +98,9 @@
                                         <i class="fa fa-check" aria-hidden="true"></i>
                                     </div>
                                     <div class="y-us-content">
-                                        <h4>excellence</h4>
-                                        <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate
-                                            superior del</p>
+                                        <h4>Excellence</h4>
+                                        <p>We strive for excellence in everything we do, ensuring that our every action, product, and service surpasses expectations and contributes to long-lasting success.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -111,8 +111,8 @@
                                     </div>
                                     <div class="y-us-content">
                                         <h4>Relationship for Life</h4>
-                                        <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate
-                                            superior del</p>
+                                        <p>We build enduring partnerships based on trust, respect, and mutual growth, ensuring lasting relationships with our customers, employees, and stakeholders.
+                                        </p>
                                     </div>
                                 </div>
                             </div>

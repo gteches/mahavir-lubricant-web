@@ -13,7 +13,7 @@
 
 <body>
     <?php include('include/navbar.php'); ?>
-    <div class="breadcrumb-area breadcrumb-style-6">
+    <div class="breadcrumb-area breadcrumb-style-6 infrastructure-banner">
         <div class="breadcrumb-inner">
             <h1 class="page-title">Infrastructure</h1>
             <ul class="page-list">

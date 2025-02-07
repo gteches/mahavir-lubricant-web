@@ -94,9 +94,11 @@
                             </h2>
                         </div>
                         <p>
-                           <b>Your Trusted Source for Premium Grease and Lubricant Oil Solutions in India!</b>
+                            <b>Your Trusted Source for Premium Grease and Lubricant Oil Solutions in India!</b>
                         </p>
-                        <p>Explore our wide range of superior grease and oil products under the <b> ‘Gripson’ product brand prepared </b>to fulfill the diverse requirements of automobile and other industries worldwide. With reliable lubrication offerings, expert advice, affordable pricing, and nationwide delivery, mahavirlubricants.com is your ultimate destination for getting lubrication solutions. Experience excellence today!
+                        <p>Explore our wide range of superior grease and oil products under the <b> ‘Gripson’ product brand prepared </b>to fulfill the diverse requirements of automobile and other industries worldwide. With reliable lubrication offerings, expert advice, affordable pricing, and nationwide delivery, <b><a href="<?php echo base_url(); ?>">mahavirlubricants.com </a></b> is your ultimate destination for getting lubrication solutions. Experience excellence today!
+                        </p>
+                        <p>Our dedication to customer satisfaction goes beyond delivering exceptional products. We focus on providing a smooth and convenient purchasing experience for our valued clients. By visiting our website, ordering grease and lubrication oils is simple and stress-free. Our worldwide delivery ensures your orders reach you on time, wherever you are in India! Come and enjoy excellence today!
                         </p>
                         <a href="#" class="btn btn-style-2">Read more</a>
                     </div>
@@ -257,12 +259,10 @@
                             <img src="<?php echo base_url(); ?>assets/img/vission-mission/mission.png" />
                         </div>
                         <div class="vision-mission-txt">
-                            <h3>Our Mission</h3>
+                            <h3>Our Mission
+                            </h3>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. A ad
-                                neque magni vel modi labore id iste qui! Quae praesentium
-                                deserunt veritatis suscipit nesciunt est error aut neque
-                                aliquam cumque?
+                                At MahavirLubricants, our mission is to provide excellent lubrication solutions for the automotive and industrial sectors. We aim to empower various industries by delivering innovative, high-performing lubricants that improve machinery efficiency and sustain their lifespan. Customer satisfaction, lubrication industry innovation, and trust and quality relationships are our top priorities.
                             </p>
                         </div>
                     </div>
@@ -273,10 +273,8 @@
                         <div class="vision-mission-txt">
                             <h3>Our Vision</h3>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. A ad
-                                neque magni vel modi labore id iste qui! Quae praesentium
-                                deserunt veritatis suscipit nesciunt est error aut neque
-                                aliquam cumque?
+                                At Mahavir Lubricants our Vision is to emerge as a global leader in the lubricant manufacturing industry, driven by innovation and commitment to excellence. We envision a future where Mahavir Lubricants sets the ultimate benchmark for reliability, and enhanced lubrication technologies, contributing to the smooth performance of industries worldwide.
+
                             </p>
                         </div>
                     </div>
@@ -285,12 +283,11 @@
                             <img src="<?php echo base_url(); ?>assets/img/vission-mission/corevalue.png" />
                         </div>
                         <div class="vision-mission-txt">
-                            <h3>Our Core Value</h3>
+                            <h3>Our Core Values
+                            </h3>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. A ad
-                                neque magni vel modi labore id iste qui! Quae praesentium
-                                deserunt veritatis suscipit nesciunt est error aut neque
-                                aliquam cumque?
+                                The core values of Mahavir Lubricants include an emphasis on quality assurance, innovation, sustainability, customer-centricity, and integrity. We deliver superior lubricants, adopt modern technologies, prioritize customer satisfaction, and ensure transparent, ethical business relationships to foster trust and excellence.
+
                             </p>
                         </div>
                     </div>
@@ -317,24 +314,17 @@
                             <h2>Management Desk</h2>
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-                            sit amet semper augue. Maecenas gravida tortor sit amet enim
-                            venenatis tristique. Nulla vehicula porta tortor non maximus.
-                            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-                            posuere cubilia Curae; Aliquam eu viverra augue. Donec aliquet
-                            dignissim augue, nec posuere augue pharetra sed. Pellentesque
-                            consequat ornare ornare. Aliquam erat volutpat. Nullam posuere
-                            porttitor lectus, ut efficitur nisi tincidunt posuere.
+                            Delivering Superior Quality Lubricant Engine Oil Manufacturing
+                            At Mahavir Lubricants, we are a quality engine oil manufacturer company based in India. We understand that your engine’s health depends on the quality of its oil and the choice of lubricant that you use. Hence, Mahavir Lubricants is committed to delivering high-performing lubricant solutions under our trusted brand ‘Gripson’. Inspired by the philosophy, “Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction, and skillful execution,” we try to uphold a relentless dedication to providing the best quality lubricants to our customers.
+
                         </p>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-                            sit amet semper augue. Maecenas gravida tortor sit amet enim
-                            venenatis tristique. Nulla vehicula porta tortor non maximus.
-                            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-                            posuere cubilia Curae; Aliquam eu viverra augue. Donec aliquet
-                            dignissim augue, nec posuere augue pharetra sed. Pellentesque
-                            consequat ornare ornare. Aliquam erat volutpat. Nullam posuere
-                            porttitor lectus, ut efficitur nisi tincidunt posuere.
+                            Our commitment is reflected in our precisely formulated range of Gripson gear, fork, and other engine oils. Each lubricant product is engineered to deliver outstanding protection and sustained performance, exceeding expectations even in the most demanding conditions.
+
+                        </p>
+                        <p>
+                            Choose ‘Gripson’ by Mahavir Lubricants to experience unmatched quality and reliability. Contact us today to explore our premium lubrication solutions, trusted by distributors and customers nationwide. Mahavir Lubricants ‘Gripson products are your partner in powering performance.
+
                         </p>
                     </div>
                 </div>

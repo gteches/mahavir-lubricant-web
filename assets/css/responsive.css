@@ -134,6 +134,12 @@
 }
 
 @media (max-width: 1199px) {
+  .about-video-text li {
+    font-size: 14px;
+}
+.year-block .text, .welcome-section .content-column .inner-box .text, .services-block-two .inner-box .block-text, .sec-title-three .text, .circular-graph-column .inner-box .text{
+  font-size: 14px;
+}
   .banner-area .banner-bg .banner-inner{
     top: 43%;
   }
@@ -176,7 +182,7 @@
   }
 
   .vision-mission-txt p {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .home-blog .blog-wrapper .portfolio-blog .blog-item .content h1 {
@@ -189,8 +195,11 @@
 
   .home-rolling .rolling-content p {
     padding-right: 0;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 24px;
+  }
+  p {
+    font-size: 14px !important;
   }
 }
 
@@ -518,9 +527,7 @@
     height: 50px;
   }
 
-  p {
-    font-size: 16px;
-  }
+ 
 
   .inner-box h3 {
     font-size: 20px;
@@ -779,7 +786,7 @@
 
   .banner-area .title1,
   .banner-area .title2 {
-    font-size: 95px;
+    font-size: 70px;
   }
 
   .banner-area .banner-sm-slider img {
@@ -1068,7 +1075,7 @@
 
   .title1,
   .title2 {
-    font-size: 85px !important;
+    font-size: 72px !important;
   }
 
   .home-about .about-image .overlay-content {
@@ -1220,7 +1227,13 @@
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-
+  .title1,
+  .title2 {
+    font-size: 62px !important;
+  }
+ .banner-bg  .offset-lg-2 {
+    margin-left: 6.666667%;
+}
   .banner-area .title1,
   .banner-area .title2 {
     font-size: 100px;
@@ -1654,7 +1667,7 @@
 
   .banner-area .title1,
   .banner-area .title2 {
-    font-size: 66px    !important;
+    font-size: 46px    !important;
   }
 
   .signinup-area .content .login-panel .panel-body {
@@ -2172,7 +2185,7 @@
   }
 
   .experience-area .single-experience .title {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .banner-style-3 .social-icon {
@@ -2615,7 +2628,8 @@
 
 @media only screen and (max-width: 767px) {
   .banner-area .title1, .banner-area .title2 {
-    font-size: 45px    !important;
+    font-size: 34px    !important;
+    line-height: normal;
 }
 .banner-area .banner-bg {
   min-height: 390px;
@@ -3381,7 +3395,7 @@
   }
 
   .banner-area .banner-bg .banner-inner {
-    width: 71%;
+    width: 90%;
     /* top: 50%; */
   }
 
@@ -3417,7 +3431,7 @@
 }
   .banner-area .title1, .banner-area .title2 {
     line-height: normal;
-    font-size: 30px    !important;
+    font-size: 24px    !important;
 }
 
 

@@ -54,6 +54,9 @@
                         </ul>
                     </li>
                     <li>
+                        <a href="<?php echo base_url('why-us'); ?>">Why Us</a>
+                    </li>   
+                    <li>
                         <a href="<?php echo base_url('video'); ?>">Videos</a>
                     </li>
                     <li class="menu-item-has-children">
@@ -74,9 +77,7 @@
                         </ul>
                     </li>
 
-                    <li>
-                        <a href="<?php echo base_url('why-us'); ?>">Why Us</a>
-                    </li>
+                  
                 </ul>
             </div>
             <!-- <div class="nav-right-content">

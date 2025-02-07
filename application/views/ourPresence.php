@@ -39,10 +39,14 @@
                         <div class="divider-30 hidden-above-lg"></div>
                         <p class="special-heading margin-bottom-20">
                             <span>
-                                Our presence spans across the globe, connecting communities and industries with our trusted solutions.
-                                With a strong network and a commitment to excellence, we continue to deliver innovation and value to
-                                clients in every corner of the world. Together, we make a global impact, fostering growth and
-                                collaboration beyond borders.
+                            Our global reach connects various industries and communities with reliable lubricant solutions that drive industry progress. With over two decades of experience, Mahavir Lubricants has built a strong network that spans across different continents. We are committed to delivering exceptional value through continuous innovation in lubricants, grease, and oils, ensuring that our products meet the evolving needs of customers worldwide. Together, we foster a lasting collaboration, growth, and sustainable impact on automobile and machinery industries with our excellent lubricant solutions. We strive to make a positive difference in every corner of the globe.
+
+                            </span>
+                        </p>
+                        <p class="special-heading margin-bottom-20">
+                            <span>
+                            By bridging borders, we continue to empower industries, fostering a wave of growth, quality, and excellence.
+
                             </span>
                         </p>
                         <div class="divider-45 hidden-below-lg"></div>

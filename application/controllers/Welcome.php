@@ -168,6 +168,7 @@ class Welcome extends CI_Controller
 		$data['pan'] = $pans;
 		$data['gst_reg'] = $gst_regs;
 		$data['cancel_cheque'] = $cancel_cheques;
+		$data['business_cards'] = $business_cards;
 		$exe = $this->db->insert('vendor_details', $data);
 		if ($exe) {
 			$response['status'] = true;
